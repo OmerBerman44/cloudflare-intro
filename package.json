@@ -1,0 +1,23 @@
+{
+  "name": "cloudflare-intro",
+  "version": "1.0.0",
+  "description": "Cloudflare Workers intro: Hello World endpoint",
+  "private": true,
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OmerBerman44/cloudflare-intro.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OmerBerman44/cloudflare-intro/issues"
+  },
+  "homepage": "https://github.com/OmerBerman44/cloudflare-intro#readme"
+}
