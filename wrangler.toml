@@ -1,4 +1,4 @@
-name = "cloudflare-intro-hello-world"
+name = "cloudflare-intro"
 main = "src/index.js"
 compatibility_date = "2026-04-21"
 
